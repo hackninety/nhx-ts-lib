@@ -1,5 +1,12 @@
 # nhx-ts-lib
 
+> **维护位置已迁移**：后续源码、问题反馈和独立版本发布统一位于 [common-ts-lib/packages/nhx-ts-lib](https://github.com/hackninety/common-ts-lib/tree/main/packages/nhx-ts-lib)。包名与公开接口保留，本仓库保留历史，不再作为新版本安装来源。
+>
+> 当前安装：`npm install https://github.com/hackninety/common-ts-lib/releases/download/nhx-ts-lib-v0.1.1/nhx-ts-lib-0.1.1.tgz`
+>
+> 以下为迁移前的历史说明，其中旧仓库安装命令仅供追溯；新的开发和发布流程见 [迁移说明](https://github.com/hackninety/common-ts-lib/blob/main/MIGRATION.md)。
+
+
 **倪海厦教学语料库**（人纪五部讲稿、天纪十部、地纪遗稿、讲座演讲、专题文章、
 959 篇医案、415 味本草、411 穴位、113 首经方、人纪视频逐字稿 6486 段）——
 深度结构化 TypeScript 库，纯 TS、零运行时依赖、ESM、按需分包懒加载，
